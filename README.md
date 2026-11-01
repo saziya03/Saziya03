@@ -12,10 +12,8 @@
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 - 🔭 Currently working on **Data Analysis & GenAI projects**
-- 🌱 Learning **Advanced Statistics & Power BI**
-- 📊 Passionate about turning data into insights
 - 📫 Reach me: **linkedin.com/in/saziya03**
 
 ### 🛠️ Tech Stack
