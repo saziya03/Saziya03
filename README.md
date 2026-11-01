@@ -1,41 +1,53 @@
-<img src="https://capsule-render.vercel.app/wave?color=gradient&customColorList=12&height=200&section=header&text=Saziya%20Alvi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+# 👋 Hi, I'm Saziya Alvi
+
+<h3 align="center">🎓 MCA Student | 📊 Aspiring Data Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;AI-Assisted+Data+Analysis+%7C+GenAI;Always+Learning+New+Things+%F0%9F%9A%80" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saziya03"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/saziya03"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Focus-Data%20Analysis-FF69B4?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/saziya-alvi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/saziya03">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### About Me
-- 🔭 Currently working on **Data Analysis & GenAI projects**
-- 📫 Reach me: **linkedin.com/in/saziya03**
+### 💜 About Me
+- 🎓 MCA Student at JSS Academy of Technical Education, Noida.
+- 📊 Interested in Data Analytics and Business Intelligence.
+- 🐍 Practicing Python, SQL, Statistics and Data Visualization.
+- 🤖 Exploring NLP and Generative AI.
 
-### 🛠️ Tech Stack
+### 🧰 Tech Stack
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/GenAI-FF6F00?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 </p>
 
-### 📌 Pinned Projects
-- **Blinkit-Grocery-Dataset** - Grocery sales & trends analysis
-- **Phonepe-Analysis** - Digital payments data insights
-- **Financial-Loan-Analysis** - Loan default risk analysis
-- **Customer-Churn-Data** - Customer retention analysis
+### 🚀 Featured Projects
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saziya03&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saziya03&theme=tokyonight&hide_border=true" />
-</p>
+| Project | Description |
+|---|---|
+| 📊 [Customer Churn Analysis](https://github.com/saziya03/Customer-Churn-Data) | Customer retention analysis |
+| 🛒 [Blinkit Grocery Dashboard](https://github.com/saziya03/BLINKIT-GROCERY-DATA) | Sales analysis using Power BI |
+| 💰 [Financial Loan Analysis](https://github.com/saziya03/Financial-Loan-Analysis) | Loan data analysis using Excel |
+| 🔍 [UPI Fraud Detection](https://github.com/saziya03/Fraud-Detection) | Transaction fraud analysis |
 
-<img src="https://capsule-render.vercel.app/wave?color=gradient&customColorList=12&height=120&section=footer" />
+---
+
+<h3 align="center">🌱 Learning • Building • Growing 🚀</h3>
